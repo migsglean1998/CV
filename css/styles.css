@@ -1,0 +1,18 @@
+body {
+  background-color: #eaf6f6;
+}
+
+h1 {
+  color: #24a19c;
+}
+
+h4 {
+    color: #24a19c;
+}
+
+hr {
+  border-color: white;
+  border-style: none;
+  border-top-style: solid;
+  border-top-width: 2px;
+}
